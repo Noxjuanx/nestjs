@@ -1,12 +1,1 @@
-[
-  {
-    "username": "prueba",
-    "email": "string@gmail.com",
-    "password": "$2a$10$iV5A7Km7oNZmvmS0ipOFW.P.EjPF4pet8M15CYHGrv67VND8WT8w6"
-  },
-  {
-    "username": "Juan",
-    "email": "bizlghs@gmail.com",
-    "password": "$2a$10$AVWA0MFQV5EPs56y7Ll14OE7d5OLry4lE6wv/uPXbxvyAjGyX5AOG"
-  }
-]
+[]
